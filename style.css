@@ -10,3 +10,14 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #B0C5A4;
 }
+#NAV{
+    display: flex;
+  justify-content:flex-end;
+  align-items: right;
+}
+.fl{
+    padding: 1rem 1rem;
+    background-color: #e6b758;
+    border: solid;
+    border-radius: 170px;
+}
